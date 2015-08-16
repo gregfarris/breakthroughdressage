@@ -1,0 +1,5 @@
+<Limit GET POST PUT DELETE>
+Order deny,allow
+Deny from all
+Allow from 164.76.70.88
+</Limit>
